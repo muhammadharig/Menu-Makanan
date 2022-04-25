@@ -11,9 +11,6 @@ List Menu baru :
   - Kambing
   
   Siomay
-  - Sapi
-  - Ayam
+  - Ikan Belidak
+  - Udang
   
-  Bubur Pedas
-  
-  Roti Bakar
