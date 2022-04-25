@@ -1,0 +1,5 @@
+Menu Makanan :
+- Nasi Goreng
+- Mie Goreng
+- Ayam Geprek
+- Ayam Bakar
