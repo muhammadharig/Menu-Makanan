@@ -3,3 +3,4 @@ Menu Makanan :
 - Mie Goreng
 - Ayam Geprek
 - Udang Goreng Crispy
+- Ayam Penyet
