@@ -1,4 +1,12 @@
 List Menu baru :
-- Bakso
-- Sate
-- Siomay
+  Bakso
+  - Jumbo
+  - Beranak
+  - Bakso Pedas
+  
+  Sate
+  - Sapi
+  - Ayam
+  - Kambing
+  
+  Siomay
